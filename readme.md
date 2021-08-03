@@ -6,3 +6,4 @@ Primarily Hosted, and Founded by Tranqi, It remains active on serveral communiti
 This Repository will contain the server's main operational code, and be used as a base hold for updates, releases and bug fixes.
  
  Also; a fair warning to all contribs- this file is a LIVE server output. please, BRANCH and await approval. do NOT force commit unless security issue.
+hi:)
